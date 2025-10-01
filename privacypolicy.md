@@ -1,15 +1,16 @@
 # 📄 Privacy Policy
 
 **Effective Date:** April 23, 2025
-**App Name:** BackstageChat  
+**App Name:** OSC Messaging  
 **Package Name:** com.oscmessaging.backstagechat  
-**Developer:** MagliteL13
+**Developer:** Jeremy Lyon
+**Email:** [maglitel13@gmail.com]  
 
 ---
 
 ## 1. Overview
 
-BackstageChat is a communication app designed for internal use by cast and crew in live production environments. We value your privacy and strive to protect your personal information.
+OSC Messaging is a communication app designed for internal use by cast and crew in live production environments. We value your privacy and strive to protect your personal information.
 
 This privacy policy explains how we collect, use, and safeguard data when you use our app.
 
@@ -61,7 +62,7 @@ You can disable notifications at any time through your device settings or within
 
 ## 6. Third-Party Services
 
-BackstageChat does **not** integrate with any third-party advertising SDKs or analytics platforms. No data is shared with third parties.
+OSC Messaging does **not** integrate with any third-party advertising SDKs or analytics platforms. No data is shared with third parties.
 
 ---
 
